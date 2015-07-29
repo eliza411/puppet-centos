@@ -2,7 +2,7 @@
 
 To start up a LAMP stack virtual machine ready for Drupal 8 development, do the following:
 
-0. Clone this repository to a convenient locaion.
+0. Clone this repository to a convenient loctaion.
 0. ```cd``` into the repository and clone your webroot into ```html```:
   * ```cd puppet-centos && git clone --branch 8.0.x http://git.drupal.org/project/drupal.git html```
 0. Install optional plugins (this only needs to happen once on your workstation): 
